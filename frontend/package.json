@@ -18,7 +18,7 @@
     "react-native-progress-button": "^1.0.3",
     "react-progress-button": "^5.1.0",
     "react-responsive-modal": "^3.3.0",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "release": "^4.0.2",
     "tomcat-deploy": "^1.0.3",
     "webpack-war-plugin": "^1.0.0-beta.3",
